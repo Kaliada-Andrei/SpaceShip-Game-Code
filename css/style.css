@@ -1,5 +1,5 @@
 body {
-  background: url(/Spaceship/image/cosmos-1853491_1280.jpg) no-repeat;
+  background: url(/SpaceShip-Game-Code/image/cosmos-1853491_1280.jpg) no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -7,5 +7,6 @@ body {
 body .wrapper {
   width: 600px;
   margin: 0 auto;
+  cursor: none;
 }
 /*# sourceMappingURL=style.css.map */
