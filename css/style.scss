@@ -1,12 +1,18 @@
 body{
-    background: url(/SpaceShip-Game-Code/image/cosmos-1853491_1280.jpg) no-repeat;
+    background: url(/image/cosmos-1853491_1280.jpg) no-repeat;
     background-position: center;
     background-size: cover;
-
+    cursor: none;
     .wrapper{
         width: 600px;
         margin: 0 auto;
-        cursor: none;
+        
+
+        .valueExpl{
+            p{
+                color:#fff;
+            }
+        }
     }
 }
 
